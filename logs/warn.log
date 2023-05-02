@@ -1,0 +1,30 @@
+[2023-04-19T18:26:49.134] [ERROR] default - Error al obtener producto: CastError: Cast to ObjectId failed for value "1254" (type number) at path "_id" for model "productos"
+[2023-04-19T18:26:56.281] [ERROR] default - Error al obtener producto: CastError: Cast to ObjectId failed for value "7845" (type number) at path "_id" for model "productos"
+[2023-04-19T18:26:56.397] [ERROR] default - Error al escribir el archivo: TypeError: Cannot read properties of undefined (reading '0')
+[2023-04-19T18:27:16.050] [ERROR] default - Error al obtener producto: CastError: Cast to ObjectId failed for value "63" (type number) at path "_id" for model "productos"
+[2023-04-19T18:27:16.165] [ERROR] default - Error al escribir el archivo: TypeError: Cannot read properties of undefined (reading '0')
+[2023-04-19T18:29:24.519] [ERROR] default - Error al obtener producto: CastError: Cast to ObjectId failed for value "63" (type number) at path "_id" for model "productos"
+[2023-04-19T18:29:24.633] [ERROR] default - Error al escribir el archivo: TypeError: Cannot read properties of undefined (reading '0')
+[2023-04-19T18:30:24.710] [ERROR] default - Error al obtener producto: CastError: Cast to ObjectId failed for value "63" (type number) at path "_id" for model "productos"
+[2023-04-19T18:30:24.825] [ERROR] default - Error al escribir el archivo: TypeError: Cannot read properties of undefined (reading '0')
+[2023-04-19T18:48:03.060] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading 'code')
+[2023-04-19T18:48:04.947] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading 'code')
+[2023-04-19T18:48:56.715] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading '_id')
+[2023-04-19T18:48:58.524] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading '_id')
+[2023-04-19T18:49:05.943] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading 'id')
+[2023-04-19T18:49:07.953] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading 'id')
+[2023-04-19T18:49:22.020] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading '_id')
+[2023-04-19T18:49:46.576] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading 'id')
+[2023-04-19T18:50:18.892] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading 'id')
+[2023-04-19T18:50:46.455] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading 'id')
+[2023-04-19T18:52:47.279] [ERROR] default - Error al eliminar producto: TypeError: carrito.productos is not iterable
+[2023-04-19T18:53:34.524] [ERROR] default - Error al eliminar producto: ReferenceError: productos is not defined
+[2023-04-19T18:53:50.290] [ERROR] default - Error al eliminar producto: TypeError: carrito.productos is not iterable
+[2023-04-19T18:54:10.534] [ERROR] default - Error al eliminar producto: TypeError: carrito.productos is not iterable
+[2023-04-19T18:54:29.626] [ERROR] default - Error al eliminar producto: TypeError: carrito.productos is not iterable
+[2023-04-19T18:55:38.245] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading 'id')
+[2023-04-19T18:55:55.997] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading '_id')
+[2023-04-19T18:56:30.934] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading '_id')
+[2023-04-19T18:56:55.499] [ERROR] default - Error al eliminar producto: TypeError: Cannot read properties of null (reading '_id')
+[2023-04-19T19:01:58.190] [ERROR] default - Error al eliminar producto: TypeError: productos is not iterable
+[2023-04-19T19:02:31.238] [ERROR] default - Error al eliminar producto: TypeError: productos is not iterable
